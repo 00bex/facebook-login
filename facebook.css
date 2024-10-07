@@ -1,0 +1,61 @@
+.body{ 
+    
+    height: 35rem;
+    width: 91rem;
+
+}
+
+.main_body{
+   width: 25rem;
+   height: 24rem ;
+   background-color: white;
+   margin: 0 auto; 
+   text-align: center;
+   padding-top: 18px;
+   
+   
+}
+.four{ 
+    text-align: center;
+    color: rgb(50, 80, 235);
+    font-size: 50px;
+}
+.aza{ 
+    height: 3rem;
+    width: 22rem;
+    background-color: rgb(50, 80, 235);
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+.psp{
+    height: 2rem;
+    width: 12rem;
+     
+    background-color: rgb(31, 220, 31);
+    color:  white;
+    border: none;
+    
+}
+.brb{  
+    font-size: 16px;
+    text-align: center;
+    color:rgb(50, 80, 235);}
+
+.lg{
+    text-align: center;
+    
+}
+.one{
+    height: 3rem;
+    width : 22rem
+}
+.two{
+    height: 3rem;
+    width: 22rem;
+
+}
+.button_button3{
+    border-radius: 8px;
+}
+    
